@@ -8,7 +8,7 @@ setup(
   author = 'Pratham Manocha',                   
   author_email = 'pratham369@yahoo.com',     
   url = 'https://github.com/prathamystic/blockchain',   
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',   
+  download_url = 'https://github.com/prathamystic/blockchain/archive/refs/tags/v_1.0.tar.gz',   
   keywords = ['Blockchain', 'API', 'Python'],  
   install_requires=[],
   classifiers=[
