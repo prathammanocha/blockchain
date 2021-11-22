@@ -10,7 +10,7 @@ setup(
   url = 'https://github.com/prathamystic/blockchain',   
   download_url = 'https://github.com/prathamystic/blockchain/archive/refs/tags/v_1.0.tar.gz',   
   keywords = ['Blockchain', 'API', 'Python'],  
-  install_requires=[],
+  install_requires=['cryptography', 'pickle', 'SocketUtils'],
   classifiers=[
     'Development Status :: 3 - Alpha',      
     'Intended Audience :: Developers',      
